@@ -1,11 +1,13 @@
-### Hi there 👋
+### Hi 👋, I am a Data Scientist 
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+![Data Scientist](https://raw.githubusercontent.com/npulagam/npulagam/main/data_scientist.gif)
+
+You can find me on [![LinkedIn][2.2]][2], on[![Twitter][1.2]][1].
 
 [1.2]: http://i.imgur.com/wWzX9uB.png
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://www.linkedin.com/in/heinz-martin/
+[1]: https://twitter.com/kishorpulagam
+[2]: https://www.linkedin.com/in/nandakishor-reddy-pulagam/
 
 <!--
 **npulagam/npulagam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
